@@ -15,6 +15,8 @@ set splitbelow
 " maintain undo history between sessions
 set undofile
 set undodir=~/.vim_undodir
+" turn off bracketed paste
+set t_BE=
 " }}}
 " IMPORTS {{{
 " }}}
